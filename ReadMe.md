@@ -13,6 +13,4 @@ I'm currently a learner who's Learning **C++** and **DSA**<br>Practicing daily o
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=aradhy404&icon=0&color=0)](https://visitcount.itsvg.in)
