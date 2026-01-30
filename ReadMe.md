@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a learner who's seeking for opportunities that is fruitfull for me<br>and I am trying to my best for that
+I'm currently a learner who's Learning **C++** and **DSA**<br>Practicing daily on **LeetCode**<br>Building small projects to improve<br>and I am trying to my best for that
 
 
 ## 🌐 Socials:
